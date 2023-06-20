@@ -1,0 +1,21 @@
+.about{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    img{
+        object-fit: cover;
+        width: 25%;
+        margin-left: 50px;
+    }
+}
+.img{
+    width: 100%;
+    background-image: url("https://dominospizza.az/static/media/backgorund-about.bdff59da.jpg");
+    background-size: cover;
+    img{
+        object-fit: cover;
+        width: 100%;
+    }
+}
